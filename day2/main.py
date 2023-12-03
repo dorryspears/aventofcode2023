@@ -60,7 +60,7 @@ def main():
     print("Sum: " + str(sum_1))
 
     #Part 2
-    print("Sum: " + str(sum_2))
-    
+    print("Sum:" + str(sum_2))
+
 if __name__ == "__main__":
     main()
